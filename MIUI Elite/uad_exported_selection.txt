@@ -54,9 +54,11 @@ com.miui.weather2
 com.modemdebug
 com.tencent.soter.soterserver
 com.trustonic.teeservice
+com.wapi.wapicertmanager
 com.xiaomi.account
 com.xiaomi.aicr
 com.xiaomi.finddevice
+com.xiaomi.joyose
 com.xiaomi.macro
 com.xiaomi.mi_connect_service
 com.xiaomi.micloud.sdk
@@ -69,6 +71,7 @@ com.xiaomi.scanner
 com.xiaomi.simactivate.service
 com.xiaomi.touchservice
 com.xiaomi.trustservice
+com.xiaomi.ugd
 com.xiaomi.xmsf
 com.xiaomi.xmsfkeeper
 org.ifaa.aidl.manager
