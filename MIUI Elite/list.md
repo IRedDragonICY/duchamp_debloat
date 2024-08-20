@@ -1,1 +1,1 @@
-com.package.installer Bootloop
+com.miui.package.installer Bootloop
