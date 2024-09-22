@@ -86,4 +86,3 @@ com.xiaomi.ugd
 com.xiaomi.xmsf
 com.xiaomi.xmsfkeeper
 org.ifaa.aidl.manager
-org.mipay.android.manager
